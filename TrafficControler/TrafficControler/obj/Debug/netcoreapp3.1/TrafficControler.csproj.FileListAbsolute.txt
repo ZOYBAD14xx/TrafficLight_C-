@@ -1,0 +1,15 @@
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\bin\Debug\netcoreapp3.1\TrafficControler.exe
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\bin\Debug\netcoreapp3.1\TrafficControler.deps.json
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\bin\Debug\netcoreapp3.1\TrafficControler.runtimeconfig.json
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\bin\Debug\netcoreapp3.1\TrafficControler.runtimeconfig.dev.json
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\bin\Debug\netcoreapp3.1\TrafficControler.dll
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\bin\Debug\netcoreapp3.1\TrafficControler.pdb
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\obj\Debug\netcoreapp3.1\TrafficControler.csprojAssemblyReference.cache
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\obj\Debug\netcoreapp3.1\TrafficControler.Form1.resources
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\obj\Debug\netcoreapp3.1\TrafficControler.csproj.GenerateResource.cache
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\obj\Debug\netcoreapp3.1\TrafficControler.AssemblyInfoInputs.cache
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\obj\Debug\netcoreapp3.1\TrafficControler.AssemblyInfo.cs
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\obj\Debug\netcoreapp3.1\TrafficControler.csproj.CoreCompileInputs.cache
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\obj\Debug\netcoreapp3.1\TrafficControler.dll
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\obj\Debug\netcoreapp3.1\TrafficControler.pdb
+D:\year 2\Part 2\Algorithm\Lab\TrafficControler\TrafficControler\obj\Debug\netcoreapp3.1\TrafficControler.genruntimeconfig.cache
